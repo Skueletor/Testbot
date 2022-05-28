@@ -1,4 +1,4 @@
-# Bot To Stream Musics on PyTGcalls with Channel Support.
+# Bot To Stream Musics on with Channel Support.
 
 A Telegram Bot to Play Audio in Voice Chats With Supports Live streaming from youtube and Mega Radio Fm Streamings
 
@@ -9,7 +9,7 @@ A Telegram Bot to Play Audio in Voice Chats With Supports Live streaming from yo
 
 ## Deploy On Railway
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/shamilhabeebnelli/mwk-musics/tree/main&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_STRING,CHAT,ADMINS,STREAM_URL,ADMIN_ONLY,DUR,LOG_GROUP&optionalEnvs=LOG_GROUP,ADMIN_ONLY,DUR&API_IDDesc=Your+App+id+and+hash+:get+it+from+my.telegram.org/apps&API_HASHDesc=Your+App+id+and+hash+:get+it+from+my.telegram.org/apps&BOT_TOKENDesc=Your+Bot+Api+Token+Get+it+from+@botfather&SESSION_STRINGDesc=your+pyrogram+session+string+:get+it+from+@gensessionbot&ADMINSDesc=your+telegram+ID+And+ids+of+whom+you+wish+to+controll+this&ADMIN_ONLYDesc=Optional+set+this+Y+or+N&LOG_GROUPDesc=Optional:+ID+of+your+bot+commands+log+group;+only+needed+if+you+are+playing+on+channel&CHATDesc=ID+of+channel/group+were+you+want+the+bot+user+to+play&STREAM_URLDesc=Stream+URL+of+radio+station+or+a+youtube+live+video+to+stream+when+the+bot+starts+or+with+/r+command&ADMIN_ONLYDefault=Y&STREAM_URLDefault=https://bit.ly/MwKradio&ADMINSDefault=749673781&DURDefault=300&CHATDefault=-100)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/SkueletorTlg/mwk-musics/tree/main&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_STRING,CHAT,ADMINS,STREAM_URL,ADMIN_ONLY,DUR,LOG_GROUP&optionalEnvs=LOG_GROUP,ADMIN_ONLY,DUR&API_IDDesc=Your+App+id+and+hash+:get+it+from+my.telegram.org/apps&API_HASHDesc=Your+App+id+and+hash+:get+it+from+my.telegram.org/apps&BOT_TOKENDesc=Your+Bot+Api+Token+Get+it+from+@botfather&SESSION_STRINGDesc=your+pyrogram+session+string+:get+it+from+@gensessionbot&ADMINSDesc=your+telegram+ID+And+ids+of+whom+you+wish+to+controll+this&ADMIN_ONLYDesc=Optional+set+this+Y+or+N&LOG_GROUPDesc=Optional:+ID+of+your+bot+commands+log+group;+only+needed+if+you+are+playing+on+channel&CHATDesc=ID+of+channel/group+were+you+want+the+bot+user+to+play&STREAM_URLDesc=Stream+URL+of+radio+station+or+a+youtube+live+video+to+stream+when+the+bot+starts+or+with+/r+command&ADMIN_ONLYDefault=Y&STREAM_URLDefault=https://bit.ly/MwKradio&ADMINSDefault=749673781&DURDefault=300&CHATDefault=-100)
 
 # Vars:
 1. `API_ID` : Get From my.telegram.org
